@@ -2,7 +2,7 @@
 
 New York Times article parser, uses sitemaps and BS4 to obtain article data.
 
-# Using NYTimesParser
+## Using NYTimesParser
 
 To use this class, create a `NYTimesParser` object
 
